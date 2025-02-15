@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajat GitHub sulit tapi penasaran!
+Belajat GitHub biar jago collab with team!
