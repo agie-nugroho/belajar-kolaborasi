@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar GitHub for Future!
+Belajar GitHub sulit tetapi harus bisa!
