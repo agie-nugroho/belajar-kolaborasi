@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-Belajar GitHub sulit dan penasaran!
+Belajar GitHub sulit tetapi harus bisa!
